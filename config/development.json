@@ -1,0 +1,10 @@
+{
+    "site": {
+        "name": "Blog",
+        "secret": "app-blog-app",
+        "url": "http://localhost:4200"
+    },
+    "db": {
+        "connection_string": "mongodb://localhost/seasia"
+    }
+}
